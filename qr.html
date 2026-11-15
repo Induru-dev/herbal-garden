@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Plant QR Codes</title>
+<meta name="robots" content="noindex">
+<link rel="icon" href="assets/leaf.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600&family=Nunito:ital,wght@0,400;0,700;0,800;1,600&family=Noto+Sans+Sinhala:wght@500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+<style>
+  .tools { background: var(--paper); border-radius: var(--radius); box-shadow: var(--shadow); padding: 20px 22px; margin: 10px 0 24px; }
+  .tools label { font-weight: 800; color: var(--forest); display: block; margin-bottom: 6px; }
+  .tools .row { display: flex; gap: 10px; flex-wrap: wrap; }
+  .tools input { flex: 1 1 280px; font: inherit; padding: 10px 16px; border-radius: 999px; border: 2px solid var(--sage-2); min-width: 0; }
+  .btn { font: inherit; font-weight: 800; border: 0; border-radius: 999px; padding: 10px 20px; background: var(--forest); color: #fff; cursor: pointer; }
+  .btn.light { background: var(--sage); color: var(--forest); }
+  .warn { color: var(--warn-ink); background: var(--warn-bg); border-radius: 12px; padding: 8px 12px; margin-top: 10px; display: none; }
+  .qr-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 18px; padding-bottom: 40px; }
+  .qr-card { background: var(--paper); border-radius: var(--radius); box-shadow: var(--shadow); padding: 14px; text-align: center; }
+  .qr-card canvas { width: 100%; height: auto; border-radius: 14px; }
+  .qr-card .url { font-size: 0.75rem; color: var(--muted); word-break: break-all; margin: 6px 0 10px; }
+  .qr-card .btn { font-size: 0.85rem; padding: 8px 16px; }
+  .hidden { position: absolute; left: -9999px; top: 0; }
+  @media print {
+    body { background: #fff; }
+    .topbar, .tools, .hero, .qr-card .btn, .qr-card .url { display: none !important; }
+    .wrap { max-width: none; padding: 0; }
+    .qr-grid { grid-template-columns: repeat(3, 1fr); gap: 8mm; }
+    .qr-card { box-shadow: none; border: 1px dashed #9bb39a; break-inside: avoid; padding: 4mm; }
+  }
+</style>
+</head>
+<body>
+<header class="topbar"><div class="wrap">
+  <a class="brand" href="index.html"><span class="brand-mark"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 3C11 3 4 8 4 16c0 1.6.4 3 1 4 .6-4 3-8 8-10-4 3-6 6-7 10 1 .6 2.4 1 4 1 8 0 10-9 10-18z"/></svg></span><span>Herbal Garden</span></a>
+  <a class="pill-link" href="index.html">All plants</a>
+</div></header>
+<main class="wrap">
+  <section class="hero">
+    <span class="eyebrow">For garden staff</span>
+    <h1>Plant QR codes</h1>
+    <p>Each code opens that plant's page. Download a card as a PNG or print the whole sheet to place beside each plant.</p>
+  </section>
+  <div class="tools">
+    <label for="base">Website address</label>
+    <div class="row">
+      <input id="base" type="url" spellcheck="false">
+      <button class="btn" id="apply">Update codes</button>
+      <button class="btn light" onclick="window.print()">Print all</button>
+    </div>
+    <div class="warn" id="warn">This page is open from your computer, so the address above is a local file. Type your live GitHub Pages address (for example https://yourname.github.io/your-repo/) and press Update codes before printing.</div>
+  </div>
+  <div class="qr-grid" id="cards"></div>
+  <div class="hidden" id="scratch"></div>
+</main>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+<script src="assets/plants-index.js"></script>
+<script>
+(function () {
+  var baseInput = document.getElementById("base");
+  var here = location.href.split("#")[0].split("?")[0].replace(/qr\.html$/, "");
+  var saved = null;
+  try { saved = localStorage.getItem("qr-base"); } catch (e) {}
+  baseInput.value = saved || here;
+
+  function norm(u) { u = u.trim(); return u.endsWith("/") ? u : u + "/"; }
+
+  function makeQrCanvas(text) {
+    var scratch = document.getElementById("scratch");
+    scratch.innerHTML = "";
+    new QRCode(scratch, { text: text, width: 600, height: 600, colorDark: "#1f4d3a", colorLight: "#ffffff", correctLevel: QRCode.CorrectLevel.M });
+    return scratch.querySelector("canvas");
+  }
+
+  function roundRect(ctx, x, y, w, h, r) {
+    ctx.beginPath();
+    ctx.moveTo(x + r, y); ctx.arcTo(x + w, y, x + w, y + h, r); ctx.arcTo(x + w, y + h, x, y + h, r);
+    ctx.arcTo(x, y + h, x, y, r); ctx.arcTo(x, y, x + w, y, r); ctx.closePath();
+  }
+
+  function drawCard(p, url) {
+    var W = 800, H = 1040;
+    var c = document.createElement("canvas"); c.width = W; c.height = H;
+    var ctx = c.getContext("2d");
+    ctx.fillStyle = "#fffdf7"; ctx.fillRect(0, 0, W, H);
+    ctx.fillStyle = "#1f4d3a"; roundRect(ctx, 0, 0, W, 120, 0); ctx.fill();
+    ctx.fillStyle = "#dcefd5"; ctx.font = "600 44px Fredoka, sans-serif"; ctx.textAlign = "center";
+    ctx.fillText("Scan to learn about me", W / 2, 76);
+    ctx.fillStyle = "#e3ead9"; roundRect(ctx, 80, 150, 640, 640, 40); ctx.fill();
+    ctx.drawImage(makeQrCanvas(url), 110, 180, 580, 580);
+    ctx.fillStyle = "#1f4d3a"; ctx.font = "600 58px Fredoka, sans-serif";
+    ctx.fillText(p.name, W / 2, 870, W - 60);
+    ctx.fillStyle = "#1f2d24"; ctx.font = "italic 600 38px Nunito, sans-serif";
+    ctx.fillText(p.sci, W / 2, 925, W - 60);
+    ctx.fillStyle = "#c8743c"; ctx.font = "700 36px 'Noto Sans Sinhala', Nunito, sans-serif";
+    ctx.fillText(p.local + "  |  " + p.sinhala, W / 2, 985, W - 60);
+    return c;
+  }
+
+  function render() {
+    var base = norm(baseInput.value);
+    try { localStorage.setItem("qr-base", base); } catch (e) {}
+    document.getElementById("warn").style.display = /^https?:/i.test(base) ? "none" : "block";
+    var wrap = document.getElementById("cards");
+    wrap.innerHTML = "";
+    window.PLANTS.forEach(function (p) {
+      var url = base + "plants/" + p.slug + "/";
+      var card = document.createElement("div"); card.className = "qr-card";
+      var canvas = drawCard(p, url);
+      var link = document.createElement("div"); link.className = "url"; link.textContent = url;
+      var btn = document.createElement("button"); btn.className = "btn"; btn.textContent = "Download PNG";
+      btn.onclick = function () {
+        var a = document.createElement("a");
+        a.download = "qr-" + p.slug + ".png"; a.href = canvas.toDataURL("image/png"); a.click();
+      };
+      card.appendChild(canvas); card.appendChild(link); card.appendChild(btn);
+      wrap.appendChild(card);
+    });
+  }
+
+  document.getElementById("apply").onclick = render;
+  baseInput.addEventListener("keydown", function (e) { if (e.key === "Enter") render(); });
+  (document.fonts ? document.fonts.ready : Promise.resolve()).then(function () {
+    return Promise.all(["600 40px Fredoka", "italic 600 40px Nunito", "700 40px 'Noto Sans Sinhala'"].map(function (f) {
+      return document.fonts ? document.fonts.load(f, "අආ Aa").catch(function () {}) : null;
+    }));
+  }).then(render);
+})();
+</script>
+</body>
+</html>

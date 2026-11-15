@@ -1,0 +1,329 @@
+[
+  {
+    "slug": "sudu-lunu",
+    "name": "Garlic",
+    "local": "Sudu Lunu",
+    "sinhala": "සුදු ළූණු",
+    "sci": "Allium sativum",
+    "authority": "L.",
+    "family": "Amaryllidaceae",
+    "category": "Spice & Medicinal Herb",
+    "habit": "Perennial bulbous herb, usually cultivated as an annual",
+    "about": "Sudu Lunu is a bulbous plant that grows underground. It is widely used around the world and in Sri Lanka for cooking, and it is also an important medicinal herb in traditional healthcare systems.",
+    "identify": [
+      "Usually grows about 45 to 60 cm tall.",
+      "Has a segmented, white underground bulb made up of several cloves.",
+      "Leaves are long, flat and narrow, without distinct leaf blades.",
+      "Produces small whitish or pinkish flowers arranged in an umbel cluster."
+    ],
+    "uses": [
+      "In traditional medicine and Ayurveda, garlic bulbs and extracts are associated with managing high blood pressure and supporting heart health.",
+      "Traditionally used to help reduce joint pain.",
+      "Used as a natural remedy for various inflammatory conditions."
+    ],
+    "garden": "",
+    "safety": "Garlic is a common food ingredient, but concentrated extracts or large medicinal amounts should be used with caution. Seek professional advice if you use it alongside other medications."
+  },
+  {
+    "slug": "pawatta",
+    "name": "Pawatta / Adathoda",
+    "local": "Pawatta, Adathoda",
+    "sinhala": "පාවට්ටා / ආඩතෝඩා",
+    "sci": "Justicia adhatoda",
+    "authority": "L.",
+    "family": "Acanthaceae",
+    "category": "Medicinal & Traditional Herb",
+    "habit": "Medium-sized evergreen shrub",
+    "about": "Pawatta is a tropical medicinal shrub commonly found in Sri Lanka and other Asian countries. It has green leaves and small white flowers, and it is well known in traditional herbal practices.",
+    "identify": [
+      "A medium-sized evergreen shrub.",
+      "Broad, dark green leaves arranged in opposite pairs.",
+      "Leaves are simple with a pointed tip.",
+      "White flowers with purple markings, usually arranged in flower spikes."
+    ],
+    "uses": [
+      "The leaves are traditionally used in Ayurvedic herbal preparations.",
+      "The plant has a long history of use in traditional respiratory remedies.",
+      "It contains natural compounds such as vasicine.",
+      "It is an important plant in traditional medicine and herbal gardens."
+    ],
+    "garden": "Pawatta is a perennial shrub that grows well in tropical climates. It can be cultivated in home gardens and herbal gardens, and it is useful for studying medicinal plant diversity and traditional knowledge.",
+    "safety": "Traditional uses do not prove that the plant can cure diseases."
+  },
+  {
+    "slug": "inguru",
+    "name": "Ginger",
+    "local": "Inguru",
+    "sinhala": "ඉඟුරු",
+    "sci": "Zingiber officinale",
+    "authority": "Roscoe",
+    "family": "Zingiberaceae (Ginger family)",
+    "category": "Spice & Traditional Herb",
+    "habit": "Perennial herb growing from a rhizome",
+    "about": "Ginger is a tropical herb widely cultivated in Sri Lanka and other Asian countries. It is commonly used as a spice in cooking because of its unique aroma and spicy flavour. The underground rhizome is the main part used.",
+    "identify": [
+      "Grows from an underground rhizome and produces leafy shoots above the ground.",
+      "Long, narrow, green leaves arranged alternately along the stem.",
+      "The rhizome is light brown on the outside and yellowish inside.",
+      "It has a strong, characteristic aroma and a spicy taste."
+    ],
+    "uses": [
+      "Commonly used as a spice in food preparation.",
+      "Adds flavour and aroma to foods and beverages.",
+      "Traditionally used in herbal preparations.",
+      "Contains natural compounds such as gingerol."
+    ],
+    "garden": "Ginger is a perennial herb that grows well in warm and humid tropical climates. It is commonly cultivated in home gardens and agricultural lands, and the rhizome is harvested for culinary and traditional uses. Ginger is an important example of a plant used in food culture and traditional practices.",
+    "safety": ""
+  },
+  {
+    "slug": "hathawariya",
+    "name": "Hathawariya (Wild Asparagus)",
+    "local": "Hathawariya",
+    "sinhala": "හාතවාරිය",
+    "sci": "Asparagus racemosus",
+    "authority": "Willd.",
+    "family": "Asparagaceae",
+    "category": "Medicinal Climber",
+    "habit": "Perennial climbing herb",
+    "about": "Hathawariya is a perennial, climbing and bushy medicinal plant. Its thick tuberous roots are the most valued part of the plant in traditional medicine.",
+    "identify": [
+      "A perennial, climbing and bushy plant.",
+      "Stems are slender, woody and branched, with small sharp spines.",
+      "Leaves are very small and needle-like.",
+      "Flowers are small, white and fragrant.",
+      "Fruits are small, round berries.",
+      "Roots are thick, fleshy and tuberous."
+    ],
+    "uses": [
+      "Roots are traditionally used in Ayurvedic medicine.",
+      "Traditionally used as a herbal tonic.",
+      "Traditionally associated with digestive health.",
+      "Traditionally used in preparations related to women's health.",
+      "An important medicinal plant in traditional medicine."
+    ],
+    "garden": "Hathawariya grows as a climber. It prefers warm conditions and well-drained soil, and it can be propagated by seeds and root divisions. Its tuberous roots are an important part of the plant.",
+    "safety": "These descriptions explain traditional uses, not proven medical treatments. Do not prepare or consume medicinal remedies without qualified advice."
+  },
+  {
+    "slug": "komarika",
+    "name": "Komarika (Aloe Vera)",
+    "local": "Komarika",
+    "sinhala": "කෝමාරිකා",
+    "sci": "Aloe vera",
+    "authority": "(L.) Burm.f.",
+    "family": "Asphodelaceae",
+    "category": "Medicinal Succulent",
+    "habit": "Perennial succulent herb",
+    "about": "Komarika is a short, green succulent that stores water in its thick leaves. It is one of the best known medicinal plants and is easy to grow even in dry areas.",
+    "identify": [
+      "A short, green, succulent plant.",
+      "Leaves are thick, fleshy and arranged in a rosette.",
+      "Leaves have sharp teeth along their margins.",
+      "Leaves contain a clear, jelly-like gel inside.",
+      "Flowers are yellow and tubular.",
+      "It can grow in dry areas with little water."
+    ],
+    "uses": [
+      "The gel is traditionally used for minor burns and skin care.",
+      "Commonly used in cosmetics, shampoos and skin-care products.",
+      "Traditionally used in some herbal preparations.",
+      "An important medicinal plant in traditional medicine."
+    ],
+    "garden": "Komarika is an easy-to-grow medicinal plant. It needs well-drained soil and moderate watering, and it can be propagated using the young plantlets that grow around the mother plant.",
+    "safety": "These descriptions explain traditional uses, not proven medical treatments. Do not prepare or consume medicinal remedies without qualified advice."
+  },
+  {
+    "slug": "kohomba",
+    "name": "Neem",
+    "local": "Kohomba",
+    "sinhala": "කොහොඹ",
+    "sci": "Azadirachta indica",
+    "authority": "A.Juss.",
+    "family": "Meliaceae (Mahogany family)",
+    "category": "Medicinal Tree",
+    "habit": "Fast-growing evergreen tree",
+    "about": "Neem is a fast-growing evergreen tree widely found in tropical and subtropical regions. It is known for its bitter leaves, small white flowers and yellow fruits, and it is valued for its traditional uses, environmental importance and role in natural pest management.",
+    "identify": [
+      "A medium to large tree with spreading branches.",
+      "Compound leaves made of several small, serrated leaflets arranged along a central stalk.",
+      "Small, fragrant white flowers in clusters.",
+      "Oval-shaped fruits that turn yellow when ripe."
+    ],
+    "uses": [
+      "Leaves, bark, seeds and oil are all used in traditional practices.",
+      "Neem leaves are used in some traditional household preparations.",
+      "Neem seed oil is used in certain agricultural pest management products.",
+      "Neem contains natural compounds that are important in botanical pest control."
+    ],
+    "garden": "Neem grows well in warm tropical climates. It prefers sunny locations and can tolerate relatively dry conditions once established. The tree provides shade and supports biodiversity, and it is important in sustainable agriculture because compounds from its seeds are used in botanical pesticides.",
+    "safety": "Neem leaves and other plant parts should not be considered automatically safe to eat. Neem oil and concentrated neem preparations may be harmful if swallowed or misused. Follow appropriate safety precautions when handling neem products."
+  },
+  {
+    "slug": "kaha",
+    "name": "Turmeric",
+    "local": "Kaha",
+    "sinhala": "කහ",
+    "sci": "Curcuma longa",
+    "authority": "L.",
+    "family": "Zingiberaceae (Ginger family)",
+    "category": "Spice & Traditional Herb",
+    "habit": "Perennial herbaceous plant",
+    "about": "Turmeric is a perennial herbaceous plant widely cultivated in tropical and subtropical regions. It is well known for its underground rhizomes, which have a bright yellow-orange colour and a distinctive aroma. It is commonly grown as a spice crop and is an important ingredient in traditional food.",
+    "identify": [
+      "Long, broad, green leaves arranged around a short pseudostem.",
+      "Grows from underground rhizomes that are yellow to orange inside.",
+      "Produces pale yellowish flowers with green and pinkish bracts.",
+      "The bright underground rhizomes are its most distinctive feature."
+    ],
+    "uses": [
+      "The rhizomes are widely used as a spice and a natural food colouring.",
+      "Commonly used in curries, sauces and other traditional dishes.",
+      "Used in traditional cultural practices and some traditional plant preparations.",
+      "Its yellow colour comes mainly from a natural pigment called curcumin."
+    ],
+    "garden": "Turmeric belongs to the same family as ginger. It grows well in warm, humid conditions with partial shade and well-drained, fertile soil, and it is propagated mainly through pieces of rhizome. It is an important crop because of its culinary, cultural and economic value.",
+    "safety": "Turmeric is commonly used in food in normal culinary quantities. Concentrated turmeric products and supplements may have different safety considerations, so follow appropriate guidance when using them."
+  },
+  {
+    "slug": "kiri-aguna",
+    "name": "Kiri Aguna",
+    "local": "Kiri Aguna",
+    "sinhala": "කිරි අඟුණ",
+    "sci": "Dregea volubilis",
+    "authority": "(L.f.) Benth. ex Hook.f.",
+    "family": "Apocynaceae (Dogbane family; formerly placed in Asclepiadaceae)",
+    "category": "Medicinal Climber & Leafy Vegetable",
+    "habit": "Perennial climbing or twining plant",
+    "about": "Kiri Aguna is a perennial climbing or twining plant commonly found growing on other plants or supporting structures. It has green stems and simple green leaves. It is recognised as a traditional medicinal plant in Sri Lanka, and its leaves are also used as a leafy vegetable in some local dishes.",
+    "identify": [
+      "A climbing or twining plant with slender green stems.",
+      "Simple, green, opposite leaves that are generally smooth and slightly glossy.",
+      "Small flowers grow in clusters, in pale greenish, yellowish or whitish colours.",
+      "Produces pod-like fruits containing seeds with silky hairs."
+    ],
+    "uses": [
+      "Its leaves are traditionally prepared as a leafy vegetable or salad.",
+      "Different parts of the plant have been used in traditional herbal preparations.",
+      "Traditionally associated with preparations for respiratory and digestive complaints.",
+      "Also recognised in traditional knowledge relating to breastfeeding."
+    ],
+    "garden": "Kiri Aguna is a climbing plant that needs support for proper growth. It can be grown along fences or garden structures, and its climbing habit makes it useful for showing different types of plant growth and the diversity of traditional medicinal plants.",
+    "safety": "Do not eat or prepare medicinal products from this plant without proper identification and advice from a qualified healthcare professional. Traditional medicinal uses do not guarantee safety or effectiveness.",
+    "note": "Some Sri Lankan sources also use the name Kiri Aguna for *Tylophora pauciflora*."
+  },
+  {
+    "slug": "narang",
+    "name": "Mandarin Orange",
+    "local": "Narang",
+    "sinhala": "නාරං",
+    "sci": "Citrus reticulata",
+    "authority": "Blanco",
+    "family": "Rutaceae (Citrus family)",
+    "category": "Fruit Tree",
+    "habit": "Small evergreen fruit tree",
+    "about": "Narang is a small evergreen fruit tree widely grown in tropical and subtropical regions. It produces round, orange fruits with a sweet or slightly sour taste. The fruits are rich in vitamin C and are commonly eaten fresh or used in juices and food.",
+    "identify": [
+      "A small to medium-sized evergreen tree.",
+      "Green, aromatic leaves, generally oval with pointed tips.",
+      "Small, white, fragrant flowers.",
+      "Round fruits that turn orange when ripe.",
+      "The fruit has a loose peel that comes off easily.",
+      "Juicy segments inside, with seeds in some varieties."
+    ],
+    "uses": [
+      "The fruit is commonly eaten fresh.",
+      "Used to prepare fresh juices and beverages.",
+      "Provides vitamin C, which supports normal immune function.",
+      "The peel is traditionally used in some herbal preparations.",
+      "The aromatic leaves and peel are used in traditional practices.",
+      "Used in cooking to add flavour and fragrance."
+    ],
+    "garden": "Narang grows well in warm climates with plenty of sunlight and well-drained soil. Its fragrant flowers attract pollinating insects. It is a good plant for teaching visitors about fruit production, citrus plants and nutrition.",
+    "safety": "Wash the fruits thoroughly before eating. People with citrus allergies should avoid them. Traditional medicinal uses of the peel and leaves should not be considered proven medical treatments."
+  },
+  {
+    "slug": "dummala",
+    "name": "Dummala",
+    "local": "Dummala",
+    "sinhala": "දුම්මල",
+    "sci": "Vatica obscura",
+    "authority": "Trimen",
+    "family": "Dipterocarpaceae",
+    "category": "Endemic Forest Tree",
+    "habit": "Evergreen tree, endemic to Sri Lanka",
+    "about": "Dummala is a woody evergreen tree found only in Sri Lanka. It belongs to the Dipterocarpaceae family, a group that includes several large tropical forest trees, and it is known for its aromatic resin.",
+    "identify": [
+      "A woody, evergreen tree.",
+      "A strong, upright trunk with branching stems.",
+      "Green leaves arranged along its branches.",
+      "Produces flowers and fruits as part of its reproductive cycle."
+    ],
+    "uses": [
+      "Dummala has historical importance in Sri Lankan traditional Ayurvedic practices.",
+      "Its resin has traditionally been used in Ayurvedic preparations.",
+      "The resin has also been used to make traditional flares for religious ceremonies, processions and cultural events.",
+      "It is important as a natural forest resource.",
+      "Trees in this group contribute to forest biodiversity and provide habitats for wildlife."
+    ],
+    "garden": "Dummala is a forest tree rather than a typical home-garden plant. It is naturally associated with Sri Lankan forest ecosystems and needs suitable tropical conditions and plenty of space to grow. It is important to conserve this species in its natural habitat.",
+    "safety": "",
+    "note": "*Vatica obscura* is classified as Vulnerable (VU) and is legally protected in Sri Lanka."
+  },
+  {
+    "slug": "karabu",
+    "name": "Clove",
+    "local": "Karabu",
+    "sinhala": "කරාබු",
+    "sci": "Syzygium aromaticum",
+    "authority": "(L.) Merr. & L.M.Perry",
+    "family": "Myrtaceae",
+    "category": "Spice Tree",
+    "habit": "Medium-sized evergreen tree",
+    "about": "Clove is a tropical evergreen tree whose small, reddish-brown dried flower buds are used as a spice. Cloves were among the most important goods of the early spice trade and are believed to be native to the Moluccas (the Spice Islands) of Indonesia. Because harvest seasons differ between countries, fresh cloves are available throughout the year.",
+    "identify": [
+      "A medium-sized evergreen tree, about 10 to 20 m tall.",
+      "The bark is smooth and grey.",
+      "Leaves are simple, opposite, shiny, leathery and lance-shaped.",
+      "Leaves have small oil glands and a strong aroma when crushed.",
+      "Flowers grow in clusters at the ends of branches.",
+      "Flower buds turn pinkish-red or bright red as they mature.",
+      "The dried bud has a characteristic nail-like shape."
+    ],
+    "uses": [
+      "Clove is rich in natural compounds with antioxidant activity.",
+      "Clove oil is traditionally used for burns and wounds, and as a pain reliever in dental care, including toothache.",
+      "Traditionally used to help reduce gas and indigestion.",
+      "Widely used in perfumes and soaps, and in laboratory work as a clearing agent for tissue samples."
+    ],
+    "garden": "A valuable medicinal, spice and economically important plant. The unopened flower buds are harvested and dried to produce cloves. The whole plant, especially the leaves and buds, has a strong aroma due to its essential oils.",
+    "safety": ""
+  },
+  {
+    "slug": "sudu-handun",
+    "name": "Sandalwood",
+    "local": "Sudu Handun",
+    "sinhala": "සුදු හඳුන්",
+    "sci": "Santalum album",
+    "authority": "L.",
+    "family": "Santalaceae",
+    "category": "Aromatic Tree",
+    "habit": "Medium-sized, semi-parasitic evergreen tree",
+    "about": "White sandalwood is the best known member of the genus *Santalum*, a group of about 25 species found across Southeast Asia, Australia and the islands of the South Pacific. It is semi-parasitic: it makes its own food but also draws water and nutrients from the roots of nearby plants. It is famous for its fragrant heartwood.",
+    "identify": [
+      "A medium-sized evergreen tree with smooth, yellowish-brown bark.",
+      "Green, shiny leaves in pairs, oval to lance-shaped, with smooth margins.",
+      "Small reddish-purple flowers produced in clusters.",
+      "Pale yellow heartwood that is famous for its aroma.",
+      "Its roots attach to host plants such as grasses, shrubs or other trees through special connections called haustoria."
+    ],
+    "uses": [
+      "Valued for centuries for its aroma and its place in many cultures, especially in Ayurvedic medicine.",
+      "Traditionally used in supportive treatments for urinary, digestive and skin complaints.",
+      "Sandalwood oil is traditionally believed to help with stress relief and inflammation, and is being studied for its antimicrobial and antioxidant properties.",
+      "Widely used in perfumes, incense and religious practices."
+    ],
+    "garden": "A valuable medicinal, aromatic and economically important plant. The most useful parts are the heartwood and its oil, which have a strong, pleasant and characteristic fragrance.",
+    "safety": "Traditional uses do not prove that a plant can cure diseases. Seek qualified advice before using sandalwood oil medicinally."
+  }
+]
