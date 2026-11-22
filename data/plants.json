@@ -325,5 +325,576 @@
     ],
     "garden": "A valuable medicinal, aromatic and economically important plant. The most useful parts are the heartwood and its oil, which have a strong, pleasant and characteristic fragrance.",
     "safety": "Traditional uses do not prove that a plant can cure diseases. Seek qualified advice before using sandalwood oil medicinally."
+  },
+  {
+    "slug": "rampe",
+    "name": "Pandan",
+    "local": "Rampe",
+    "sinhala": "රම්පේ",
+    "sci": "Pandanus amaryllifolius",
+    "authority": "Roxb.",
+    "family": "Pandanaceae (Screwpine family)",
+    "category": "Aromatic Leaf Plant",
+    "habit": "Upright perennial herb",
+    "about": "Rampe is an upright tropical plant grown in almost every Sri Lankan home garden for its sweet-smelling leaves. A few leaves added to rice, curries or sweets give them a pleasant aroma.",
+    "identify": [
+      "An upright plant with long, narrow, strap-like green leaves arranged in a spiral.",
+      "The leaves are smooth, without sharp spines on the edges.",
+      "The leaves release a sweet, pleasant aroma when crushed or torn.",
+      "Older plants develop woody aerial roots that help support the stem."
+    ],
+    "uses": [
+      "The fragrant leaves are widely used in Sri Lankan and Asian cooking to add aroma and flavour to rice, curries and sweets.",
+      "In traditional practices, leaf infusions are used as cooling herbal drinks.",
+      "Traditionally used in natural remedies to aid digestion."
+    ],
+    "garden": "*Pandanus amaryllifolius* rarely produces flowers or seeds and is easily grown from small side shoots (suckers) taken from the base of a mature plant. It grows well in warm, moist soil.",
+    "safety": ""
+  },
+  {
+    "slug": "karapincha",
+    "name": "Curry Leaf",
+    "local": "Karapincha",
+    "sinhala": "කරපිංචා",
+    "sci": "Murraya koenigii",
+    "authority": "(L.) Spreng.",
+    "family": "Rutaceae (Citrus family)",
+    "category": "Spice & Medicinal Shrub",
+    "habit": "Small aromatic shrub or tree",
+    "about": "Karapincha is a small aromatic shrub or tree whose leaves are an essential part of Sri Lankan cooking. It is native to Sri Lanka and India.",
+    "identify": [
+      "A small aromatic shrub or tree.",
+      "Compound leaves made up of many small, glossy, dark green, pointed leaflets arranged along a central stem.",
+      "Clusters of small white flowers.",
+      "Small berries that turn from green to black when ripe."
+    ],
+    "uses": [
+      "Fresh leaves are used to flavour curries, sambols and herbal porridges (kola kenda).",
+      "In traditional Ayurvedic medicine, the leaves are valued for supporting digestion.",
+      "Traditionally used to reduce inflammation and to promote healthy hair and skin."
+    ],
+    "garden": "*Murraya koenigii* thrives in sunny locations with well-drained soil. Regular harvesting of the leaf stems encourages bushy growth, and it can be propagated using fresh seeds or root suckers.",
+    "safety": ""
+  },
+  {
+    "slug": "heen-bovitiya",
+    "name": "Heen Bovitiya",
+    "local": "Heen Bovitiya",
+    "sinhala": "හීන් බෝවිටියා",
+    "sci": "Osbeckia octandra",
+    "authority": "(L.) DC.",
+    "family": "Melastomataceae (Melastome family)",
+    "category": "Endemic Medicinal Shrub",
+    "habit": "Small branched evergreen shrub",
+    "about": "Heen Bovitiya (eight stamen osbeckia) is a medicinal shrub endemic to Sri Lanka, meaning it grows naturally nowhere else. It is the provincial flower of the Southern Province.",
+    "identify": [
+      "A small, branched evergreen shrub growing up to 2 m tall.",
+      "Reddish-brown, hairy stems.",
+      "Simple, narrow green leaves with three distinct lengthwise veins.",
+      "Striking pinkish-purple flowers with five petals and bright yellow centres."
+    ],
+    "uses": [
+      "In Sri Lankan traditional and Ayurvedic medicine, the leaves, stems and roots are widely used in preparations for liver disorders such as jaundice.",
+      "Young leaves are prepared as herbal porridge (kola kenda) or herbal tea.",
+      "Traditionally associated with supporting liver health and managing diabetes."
+    ],
+    "garden": "Heen Bovitiya grows well in moist, well-drained soil in sunny or partially shaded areas. Its flowers attract bees and butterflies for pollination.",
+    "safety": "Traditional uses do not prove that a plant can treat disease. Anyone with a liver condition or diabetes should follow their doctor's advice."
+  },
+  {
+    "slug": "mukunuwenna",
+    "name": "Mukunuwenna",
+    "local": "Mukunuwenna",
+    "sinhala": "මුගුණුවැන්න",
+    "sci": "Alternanthera sessilis",
+    "authority": "(L.) R.Br. ex DC.",
+    "family": "Amaranthaceae (Amaranth family)",
+    "category": "Leafy Vegetable & Herb",
+    "habit": "Low-growing, spreading perennial herb",
+    "about": "Mukunuwenna (sessile joyweed) is one of the most popular leafy vegetables in Sri Lanka. It is a low, spreading herb that grows quickly in damp places.",
+    "identify": [
+      "A low-growing, spreading perennial herb.",
+      "Creeping stems that root at the nodes.",
+      "Small, narrow, opposite green leaves.",
+      "Tiny, rounded clusters of silvery-white flowers directly in the leaf axils."
+    ],
+    "uses": [
+      "Commonly eaten shredded with grated coconut (mallung) or used in herbal porridges.",
+      "In traditional medicine it is valued for its cooling properties.",
+      "Traditionally associated with good eyesight, digestion, and healthy hair and skin."
+    ],
+    "garden": "*Alternanthera sessilis* thrives in damp, fertile soils and grows rapidly in home gardens. It is very easy to propagate using stem cuttings and can be harvested again and again by trimming the tender top shoots.",
+    "safety": ""
+  },
+  {
+    "slug": "gotu-kola",
+    "name": "Gotu Kola",
+    "local": "Gotu Kola",
+    "sinhala": "ගොටුකොළ",
+    "sci": "Centella asiatica",
+    "authority": "(L.) Urb.",
+    "family": "Apiaceae",
+    "category": "Leafy Vegetable & Medicinal Herb",
+    "habit": "Small creeping perennial herb",
+    "about": "Gotu Kola is a small creeping herb with round leaves, eaten almost daily in many Sri Lankan homes as a salad (mallung), porridge (kola kenda) or sambol.",
+    "identify": [
+      "A small creeping herb that spreads along the ground.",
+      "Round to kidney-shaped leaves, like a fan, with scalloped edges.",
+      "Long, creeping stems, with roots growing from the nodes.",
+      "Very small pinkish-white flowers in clusters.",
+      "Leaves have a mild scent when crushed."
+    ],
+    "uses": [
+      "**Food:** used as kola mallum, kola kenda and sambol, and rich in vitamins and iron.",
+      "**Memory:** traditionally believed to improve memory and concentration and to reduce mental stress, and given to children as kola kenda.",
+      "**Wounds:** crushed leaves are traditionally applied to cuts and wounds.",
+      "**Blood:** traditionally believed to purify the blood and help with blood pressure.",
+      "**Skin:** traditionally used to keep skin healthy."
+    ],
+    "garden": "Gotu Kola likes cool, shady and moist places and needs regular watering. It does not grow well in dry, sandy soil and will die if left to dry out in hot weather. It can be grown in a pot or in the ground, from seeds or stem cuttings.",
+    "safety": "These are traditional beliefs, not proven medical treatments. Anyone on medication for blood pressure or other conditions should talk to their doctor."
+  },
+  {
+    "slug": "heen-undupiyaliya",
+    "name": "Heen Undupiyaliya",
+    "local": "Heen Undupiyaliya",
+    "sinhala": "හීන් උඳුපියලිය",
+    "sci": "Desmodium triflorum",
+    "authority": "(L.) DC.",
+    "family": "Fabaceae (Pea family)",
+    "category": "Medicinal Ground Cover",
+    "habit": "Small mat-forming perennial herb",
+    "about": "Heen Undupiyaliya is a tiny herb that spreads along the ground like a mat. It is the plant used for the well-known Undupiyaliya kola kenda.",
+    "identify": [
+      "A small perennial herb that spreads along the ground like a mat.",
+      "Leaves are trifoliate: three small leaflets in each leaf, 1 to 2 cm long.",
+      "Leaflets are round, with a notch at the tip.",
+      "Very small pink or purple flowers, 3 to 4 mm, usually in groups of three.",
+      "Thin, creeping stems with roots growing from the nodes.",
+      "Small, flat, jointed pods that stick to clothes."
+    ],
+    "uses": [
+      "**Kola kenda:** the whole plant is used for Undupiyaliya kola kenda, traditionally taken for liver complaints and diabetes.",
+      "**Stomach:** traditionally used for dysentery, diarrhoea, stomach ache and indigestion.",
+      "**Fever and colds:** a decoction is traditionally used for fever, cough and headache.",
+      "**Wounds:** crushed leaves are traditionally applied to wounds and skin problems.",
+      "**Other:** also recorded in traditional remedies for eye complaints and as a tonic."
+    ],
+    "garden": "Heen Undupiyaliya grows easily in sunny, open places such as lawns and roadsides. It likes moist soil but can survive dry weather too. It spreads quickly by itself, makes a good ground cover and needs little care or fertiliser. Trim it to keep it neat.",
+    "safety": "These are traditional uses, not proven medical treatments. Correct identification and professional advice are needed before any medicinal use.",
+    "note": "This plant is now often listed under the newer name *Grona triflora*."
+  },
+  {
+    "slug": "sera",
+    "name": "Lemongrass",
+    "local": "Sera",
+    "sinhala": "සේර",
+    "sci": "Cymbopogon citratus",
+    "authority": "(DC.) Stapf",
+    "family": "Poaceae (Grass family)",
+    "category": "Aromatic Grass",
+    "habit": "Perennial clump-forming grass",
+    "about": "Lemongrass is a tall, clump-forming grass known for its strong lemon scent. It is grown in home gardens and on farms across South and Southeast Asia, and is used in cooking, herbal teas and traditional plant practices.",
+    "identify": [
+      "A perennial grass growing in dense tufts, usually 1 to 1.5 m tall.",
+      "Long, narrow, blade-like leaves with rough, sharp edges.",
+      "A pale, slightly swollen base made of tightly overlapping leaf sheaths.",
+      "Crushing a leaf gives a strong lemon smell, the easiest way to confirm it.",
+      "It rarely flowers when grown in gardens."
+    ],
+    "uses": [
+      "The leaves and stem bases flavour curries, soups and teas in Sri Lankan cooking.",
+      "Lemongrass tea is a common household drink.",
+      "It has a place in traditional practices for colds and indigestion.",
+      "The essential oil is used in soaps, perfumes and mosquito repellents."
+    ],
+    "garden": "Lemongrass grows best in full sun and well-drained soil, and tolerates dry spells once established. It is propagated by dividing clumps or planting rooted stalks, and harvested by cutting stalks near the base. It makes a useful border plant and helps teach visitors about grass structure and aromatic plants.",
+    "safety": "Lemongrass is safe as a normal food flavouring. The concentrated essential oil should not be swallowed and can irritate skin if used undiluted. Anyone who is pregnant or on medication should consult a health professional before using it medicinally."
+  },
+  {
+    "slug": "savandara",
+    "name": "Vetiver",
+    "local": "Savandara",
+    "sinhala": "සැවැන්දරා",
+    "sci": "Chrysopogon zizanioides",
+    "authority": "(L.) Roberty",
+    "family": "Poaceae (Grass family)",
+    "category": "Aromatic Grass",
+    "habit": "Tall, tufted perennial grass",
+    "about": "Vetiver is a tall, tufted perennial grass famous for its deep, fragrant roots. It is valued for its aromatic root oil, for traditional cooling drinks, and for controlling soil erosion on slopes.",
+    "identify": [
+      "A dense, upright clump of stiff, narrow leaves that can reach 1 to 2 m tall.",
+      "Leaves are long, flat or slightly folded, with a rough edge.",
+      "Its most distinctive feature is a thick, fibrous root system that grows straight down to a great depth.",
+      "The roots have a sweet, earthy fragrance when dug up or crushed."
+    ],
+    "uses": [
+      "The roots are soaked in water to make a cooling drink and are used in traditional practices in Sri Lanka and India.",
+      "Vetiver oil, distilled from the roots, is used in perfumery and aromatherapy.",
+      "The roots are woven into mats and screens that scent a room.",
+      "The leaves are used for thatching and mulch."
+    ],
+    "garden": "Vetiver's deep roots bind soil, so it is planted in close rows along slopes to reduce erosion and landslides. It grows well in full sun and tolerates poor soil, drought and flooding. It is propagated by splitting clumps into slips, and because it rarely sets viable seed it does not spread aggressively. It is a good plant for teaching visitors about soil conservation.",
+    "safety": "The roots are used in drinks in small traditional amounts. Vetiver oil is for external or fragrance use only and should be diluted before skin contact. Anyone who is pregnant or on medication should consult a health professional before using it medicinally."
+  },
+  {
+    "slug": "akkapana",
+    "name": "Akkapana",
+    "local": "Akkapana",
+    "sinhala": "අක්කපාන",
+    "sci": "Kalanchoe pinnata",
+    "authority": "(Lam.) Pers.",
+    "family": "Crassulaceae",
+    "category": "Medicinal Succulent",
+    "habit": "Succulent perennial herb",
+    "about": "Akkapana is a very common succulent plant found in home gardens across Sri Lanka. It is well known for its thick, fleshy leaves and its toughness. New little plants can even sprout from the edges of a fallen leaf.",
+    "identify": [
+      "Usually grows up to about 1 m tall, with fleshy, succulent stems.",
+      "Leaves are thick and fleshy, with scalloped or toothed margins.",
+      "Bell-shaped, drooping flowers, usually reddish-purple, yellowish-green or pinkish."
+    ],
+    "uses": [
+      "**Kidney and urinary complaints:** in Sri Lankan traditional medicine, leaf extracts or infusions are used for urinary tract issues and kidney stones.",
+      "**Wounds and swelling:** crushed leaves or leaf pastes are applied to cuts, burns, insect bites and swollen areas.",
+      "**Joint pain:** warm leaves are sometimes applied externally for joint aches and back pain."
+    ],
+    "garden": "Akkapana is very easy to grow in a sunny spot with well-drained soil and needs little water. It can be grown from leaves or stem pieces.",
+    "safety": "Long-term internal use of traditional plant preparations should only be done under the guidance of a qualified Ayurvedic or medical practitioner."
+  },
+  {
+    "slug": "monarakudumbiya",
+    "name": "Monarakudumbiya",
+    "local": "Monarakudumbiya, Vatu Pala",
+    "sinhala": "මොනරකුඩුම්බියා",
+    "sci": "Vernonia cinerea",
+    "authority": "(L.) Less.",
+    "family": "Asteraceae (Daisy family)",
+    "category": "Medicinal Herb",
+    "habit": "Annual herb",
+    "about": "Monarakudumbiya is a small, widespread herb found in waste land and gardens throughout Sri Lanka. Its flower head looks like a peacock's crest, which gives it its local name (\"Monara\" means peacock and \"kudumbiya\" means crest or top-knot).",
+    "identify": [
+      "Usually grows about 15 to 30 cm tall, sometimes taller in good conditions.",
+      "A slender, slightly hairy stem.",
+      "Simple leaves with shallowly toothed or smooth margins.",
+      "Small purple, pink or lilac flower heads clustered at the top, like a peacock's crest."
+    ],
+    "uses": [
+      "**Liver health:** famously used in herbal porridges (kola kenda) traditionally taken for jaundice and to support the liver and digestion.",
+      "**Blood:** traditionally believed to purify the blood and boost immunity.",
+      "**Fever and worms:** the whole plant or its juice is recorded in traditional remedies for fevers, skin irritations and worm infections."
+    ],
+    "garden": "Monarakudumbiya grows easily in sunny, open places and often comes up by itself from wind-blown seeds.",
+    "safety": "Although it is eaten as a traditional herbal porridge, anyone wanting to use it as a treatment for a medical condition should consult a qualified herbalist or healthcare professional.",
+    "note": "This plant is now often listed under the newer name *Cyanthillium cinereum*."
+  },
+  {
+    "slug": "thebu",
+    "name": "Thebu",
+    "local": "Thebu",
+    "sinhala": "තෙබු",
+    "sci": "Hellenia speciosa",
+    "authority": "(J.Koenig) S.R.Dutta",
+    "family": "Costaceae",
+    "category": "Flowering Medicinal Herb",
+    "habit": "Tropical perennial herb",
+    "about": "Thebu is a tropical perennial herb native to Sri Lanka. It has upright, fleshy stems with green leaves arranged in a spiral, and attractive white flowers with a yellow centre surrounded by red bracts. It grows from underground rhizomes and is valued as a medicinal and food plant.",
+    "identify": [
+      "An erect herb with a strong, leafy stem.",
+      "Simple, long green leaves arranged in a spiral around the stem.",
+      "Dense flower spikes at the stem tips with bright red bracts.",
+      "Large white flowers with a yellow centre.",
+      "Reddish, three-angled seed capsules."
+    ],
+    "uses": [
+      "The leaves are eaten as a vegetable in Sri Lanka.",
+      "Leaves, roots and rhizomes are recorded in traditional Ayurvedic practices.",
+      "Traditionally associated with blood sugar management."
+    ],
+    "garden": "Thebu prefers moist, shady places. It can be propagated through underground rhizomes and seeds, and is valued in home gardens for its traditional importance and attractive flowers. It is classified as Least Concern (LC) in the national conservation assessment.",
+    "safety": "These uses represent traditional knowledge and do not prove that the plant can treat or prevent diseases.",
+    "note": "You may also see this plant listed under its older name *Costus speciosus*."
+  },
+  {
+    "slug": "maduruthala",
+    "name": "Holy Basil",
+    "local": "Maduruthala",
+    "sinhala": "මදුරුතලා",
+    "sci": "Ocimum tenuiflorum",
+    "authority": "L.",
+    "family": "Lamiaceae (Mint family)",
+    "category": "Aromatic Medicinal Herb",
+    "habit": "Small bushy aromatic herb",
+    "about": "Maduruthala, also called Holy Basil or Tulsi, is an aromatic medicinal herb commonly grown in Sri Lankan home gardens. It is known for its strong, pleasant smell and is widely grown in tropical and subtropical regions.",
+    "identify": [
+      "A small, bushy, aromatic herb.",
+      "The stem is usually branched and square-shaped.",
+      "Leaves grow in opposite pairs.",
+      "Leaves are green, oval and have slightly toothed edges.",
+      "The leaves have a strong, pleasant aroma when crushed.",
+      "Small white to purplish flowers grow in clusters on upright spikes.",
+      "It produces small seeds after flowering."
+    ],
+    "uses": [
+      "Maduruthala has an important place in traditional Ayurvedic practices.",
+      "Leaves are traditionally used to prepare herbal drinks.",
+      "Traditionally used for coughs and common colds.",
+      "The aromatic leaves have traditionally been used to repel insects and mosquitoes."
+    ],
+    "garden": "Maduruthala grows well in warm climates with plenty of sunlight and well-drained soil. It can be propagated using seeds or stem cuttings. Its flowers attract pollinating insects, and it is useful for teaching visitors about aromatic plants and traditional knowledge.",
+    "safety": "These are traditional uses and do not establish that the plant can treat or prevent illnesses."
+  },
+  {
+    "slug": "inguru-piyali",
+    "name": "Inguru Piyali",
+    "local": "Inguru Piyali",
+    "sinhala": "ඉඟුරු පියලි",
+    "sci": "Kaempferia galanga",
+    "authority": "L.",
+    "family": "Zingiberaceae (Ginger family)",
+    "category": "Medicinal & Aromatic Herb",
+    "habit": "Low-growing perennial herb",
+    "about": "Inguru Piyali (aromatic ginger) is a small, low-growing, aromatic herb in the ginger family. Its underground rhizomes have a pleasant, spicy smell. It is native to parts of Asia and is grown in Sri Lanka as a medicinal and ornamental plant.",
+    "identify": [
+      "Grows close to the ground, with very short or almost no stems.",
+      "Usually two or three broad, oval green leaves from the base.",
+      "Leaves spread out flat, close to the soil.",
+      "Fleshy, aromatic rhizomes that are light brown outside.",
+      "The whole plant has a characteristic spicy smell."
+    ],
+    "flowers": "Small, attractive flowers, usually white with purple markings, appear close to the base of the leaves. They are fragrant and delicate and usually last only a short time.",
+    "uses": [
+      "The rhizome is commonly used in traditional herbal preparations.",
+      "Used as an aromatic spice in traditional food.",
+      "Different parts of the plant are recorded in traditional medicinal practices."
+    ],
+    "garden": "Inguru Piyali grows well in warm, tropical climates. It prefers partial shade and moist, fertile soil, and can be propagated using its rhizomes. It is well suited to home and herbal gardens.",
+    "safety": "Traditional uses do not prove that the plant is an effective or safe treatment. Correct identification and professional advice are important before any medicinal use."
+  },
+  {
+    "slug": "iramusu",
+    "name": "Iramusu",
+    "local": "Iramusu",
+    "sinhala": "ඉරමුසු",
+    "sci": "Hemidesmus indicus",
+    "authority": "(L.) R.Br. ex Schult.",
+    "family": "Apocynaceae",
+    "category": "Medicinal Climber",
+    "habit": "Slender, twining perennial vine",
+    "about": "Iramusu (Indian sarsaparilla) is a slender, twining perennial native to South Asia, including Sri Lanka. It is highly valued in Ayurveda and Sri Lankan traditional medicine for its cooling properties and aromatic roots. It usually grows twined around other shrubs and trees in open forests and scrubland.",
+    "identify": [
+      "**Growth:** a slender, woody climber with milky latex in its stems, often twining around supports.",
+      "**Leaves:** opposite, simple and variable in shape, often with distinct whitish veins on the upper surface.",
+      "**Flowers:** small, greenish-yellow with a purplish centre, clustered where the leaves join the stem.",
+      "**Roots:** long, cylindrical, brownish roots with a pleasant, vanilla-like aroma."
+    ],
+    "flowers": "The small flowers bloom during the warmer months. They are followed by slender, paired pods that spread apart as they mature, releasing flat seeds with silky hairs that are carried by the wind.",
+    "uses": [
+      "The roots are traditionally brewed into a cooling herbal tea (Iramusu tea).",
+      "Used in traditional preparations aimed at purifying the blood and cooling the body.",
+      "Traditionally used for skin-related complaints."
+    ],
+    "garden": "Iramusu is a great addition to the medicinal and native plant areas of a garden. Its twining habit, veined leaves and aromatic roots make it a good example for teaching about medicinal roots, climbing plants and traditional herbal heritage.",
+    "safety": "Do not consume or prepare any part of this plant as a home remedy without proper guidance. Correct identification and preparation are essential. Consult a qualified professional before any medicinal use."
+  },
+  {
+    "slug": "pokuruwada",
+    "name": "Coral Hibiscus",
+    "local": "Pokuruwada",
+    "sinhala": "පොකුරුවද",
+    "sci": "Hibiscus schizopetalus",
+    "authority": "(Dyer) Hook.f.",
+    "family": "Malvaceae (Mallow family)",
+    "category": "Flowering Shrub",
+    "habit": "Evergreen perennial shrub",
+    "about": "Pokuruwada (coral hibiscus) is an attractive evergreen shrub widely grown in Sri Lanka and other tropical regions. It is easy to recognise by its graceful, arching branches and unusual hanging flowers.",
+    "identify": [
+      "**Growth:** a fast-growing shrub, usually 2 to 3 m tall, with slender, drooping branches.",
+      "**Leaves:** simple, alternate and oval, with toothed edges and a glossy green surface.",
+      "**Flowers:** red or pinkish-red flowers hanging on long, slender stalks, with deeply fringed petals that curve backward around a long, hanging column of stamens."
+    ],
+    "flowers": "The plant flowers throughout the year, attracting pollinators such as sunbirds and butterflies. After pollination it can form a dry, five-part capsule with small seeds, but fruit is rare on garden plants, which are mostly grown from stem cuttings.",
+    "uses": [
+      "Hibiscus flowers and leaves are traditionally used in soothing herbal infusions and cooling preparations.",
+      "Traditionally used in natural hair-care remedies.",
+      "Widely grown as an ornamental plant for its striking flowers."
+    ],
+    "garden": "Pokuruwada flowers all year round and has a striking flower structure, making it a great example for teaching about flower adaptations, pollination and growing plants from cuttings.",
+    "safety": "These records reflect traditional knowledge, not proven medical treatments. Do not prepare any part of this plant as a home remedy without proper guidance."
+  },
+  {
+    "slug": "kapparavalli",
+    "name": "Kapparavalli",
+    "local": "Kapparavalli, Karpooravalli",
+    "sinhala": "කප්පරවල්ලිය",
+    "sci": "Plectranthus amboinicus",
+    "authority": "(Lour.) Spreng.",
+    "family": "Lamiaceae (Mint family)",
+    "category": "Aromatic Medicinal Herb",
+    "habit": "Fleshy perennial herb",
+    "about": "Kapparavalli (Indian borage) is a small, fleshy perennial herb native to southern and eastern Africa and now widely grown in Sri Lanka and South India. It is valued in Sri Lankan traditional knowledge, especially for coughs and colds.",
+    "identify": [
+      "Usually grows about 30 to 50 cm tall.",
+      "Thick, fleshy, soft stems that often branch near the base.",
+      "Thick, fleshy, broadly oval to round leaves with soft hairs.",
+      "Leaves in opposite pairs, with scalloped edges.",
+      "Leaves have a strong, pleasant aromatic smell when crushed.",
+      "Tiny pale purple or whitish flowers on a long spike at the top of the stem."
+    ],
+    "flowers": "The plant bears very small flowers, each with both male and female parts, followed by small dry fruits. Flowering is uncommon in home gardens because the plant is mostly grown for its leaves. The thick, aromatic leaves are the best way to identify it.",
+    "uses": [
+      "Recorded in herbal preparations traditionally associated with cough, cold and sore throat.",
+      "Traditionally associated with digestive complaints.",
+      "The leaves and leaf juice are mentioned in traditional literature."
+    ],
+    "garden": "Kapparavalli lives for many years and grows easily from stem cuttings. Its thick leaves, aromatic smell and simple flower spike make it useful for teaching plant identification, leaf structure and growing plants from cuttings.",
+    "safety": "Do not consume or prepare this plant as a home remedy without advice. Several closely related species look similar, so correct identification is essential.",
+    "note": "This plant is now often listed under the newer name *Coleus amboinicus*."
+  },
+  {
+    "slug": "sadikka",
+    "name": "Nutmeg",
+    "local": "Sadikka",
+    "sinhala": "සාදික්කා",
+    "sci": "Myristica fragrans",
+    "authority": "Houtt.",
+    "family": "Myristicaceae",
+    "category": "Spice Tree",
+    "habit": "Perennial evergreen tree",
+    "about": "Nutmeg is a medium-sized, aromatic evergreen tree native to the Banda Islands (Maluku) of Indonesia. A single fruit gives two spices: nutmeg from the seed, and mace from the red, net-like covering around the seed. In Sri Lanka it is mainly grown in the Kandy, Matale and Kegalle districts.",
+    "identify": [
+      "Usually grows about 5 to 15 m tall, occasionally up to 20 m.",
+      "A spreading crown with many branches.",
+      "Greyish-brown bark; young branches are usually green.",
+      "Simple, alternate, oval or lance-shaped leaves with smooth edges.",
+      "Leaves are dark green and shiny above, lighter underneath, and aromatic when crushed.",
+      "Small, pale yellow, bell-shaped flowers.",
+      "Oval or pear-shaped fruits that turn yellow when mature."
+    ],
+    "flowers": "Male and female flowers usually grow on separate trees. Female flowers develop into fleshy yellow fruits. When ripe, the fruit splits into two halves, revealing a shiny dark brown seed wrapped in a bright red, lacy covering called the aril. The dried seed kernel is nutmeg, and the dried aril is mace.",
+    "uses": [
+      "The dried seed is used as a spice in curries, baked goods, sweets and drinks.",
+      "Mace is used as a flavouring in many foods.",
+      "Essential oils from nutmeg and mace are used for flavouring and fragrance.",
+      "Recorded in traditional Ayurvedic and Chinese medicine.",
+      "An important part of Sri Lanka's spice industry and exports."
+    ],
+    "garden": "Nutmeg grows well in warm, humid tropical climates in well-drained, fertile soil rich in organic matter. Young trees need shade, and trees only begin to flower and fruit after several years. It is a good plant for studying spice crops, seed development and the economic value of plants.",
+    "safety": "Nutmeg is meant for use as a spice in normal cooking amounts. Eating large amounts can cause serious health effects, so it should never be used in concentrated amounts or as a home remedy."
+  },
+  {
+    "slug": "enasal",
+    "name": "Cardamom",
+    "local": "Enasal",
+    "sinhala": "එනසාල්",
+    "sci": "Elettaria cardamomum",
+    "authority": "(L.) Maton",
+    "family": "Zingiberaceae (Ginger family)",
+    "category": "Spice Plant",
+    "habit": "Perennial herb",
+    "about": "Cardamom is a perennial aromatic herb native to the Western Ghats of southern India and one of the world's most valuable spices. It belongs to the ginger family and is grown for its aromatic seeds. In Sri Lanka it is mainly grown in the wet and intermediate zones.",
+    "identify": [
+      "Usually grows about 2 to 4 m tall.",
+      "Leafy shoots grow from underground rhizomes.",
+      "Upright stems covered with long leaf sheaths.",
+      "Long, lance-shaped leaves with smooth edges and a pointed tip.",
+      "Small, pale greenish-white flowers with violet markings.",
+      "Small oval capsules containing several aromatic seeds."
+    ],
+    "flowers": "Flowers appear on separate shoots that grow out from the base of the plant, often lying close to the ground. They develop into small capsules that are green when young and turn yellowish or pale brown as they mature. Each capsule holds several small dark seeds, and the dried capsules and seeds are the spice we call cardamom.",
+    "uses": [
+      "The dried capsules flavour curries, sweets, desserts and baked goods.",
+      "Commonly used to flavour tea, coffee and other drinks.",
+      "The seeds are used in spice mixtures and traditional dishes.",
+      "Cardamom oil is used in the food, fragrance and cosmetic industries.",
+      "In traditional medicine, it has been used for digestive complaints.",
+      "An important export spice for Sri Lanka."
+    ],
+    "garden": "Cardamom grows well in warm, humid climates with partial shade and well-drained, fertile soil rich in organic matter. It is usually propagated from rhizomes or seeds. It is a good plant for studying underground stems, flower structures and spice crops.",
+    "safety": "Cardamom is generally used as a spice in normal cooking amounts. Avoid using concentrated preparations as home remedies without professional advice."
+  },
+  {
+    "slug": "nil-katarolu",
+    "name": "Butterfly Pea",
+    "local": "Nil Katarolu",
+    "sinhala": "නිල් කටරොළු",
+    "sci": "Clitoria ternatea",
+    "authority": "L.",
+    "family": "Fabaceae (Pea family)",
+    "category": "Flowering Climber",
+    "habit": "Perennial twining vine",
+    "about": "Nil Katarolu (butterfly pea or blue pea) is a twining vine in the pea family, native to tropical Asia and widely grown in Sri Lanka. It is loved for its deep blue flowers and grows easily along fences and other supports.",
+    "identify": [
+      "A climbing or twining vine with slender, green, branched stems.",
+      "Compound leaves arranged alternately, usually with 5 to 7 oval leaflets.",
+      "Leaflets have smooth edges and rounded or slightly pointed tips.",
+      "Large deep blue or violet flowers with a yellowish-white centre.",
+      "Long, narrow, flat pods containing several seeds.",
+      "Roots may have small nodules that hold nitrogen-fixing bacteria."
+    ],
+    "flowers": "The flowers are shaped a little like butterflies. They are usually deep blue with a yellowish-white centre, though white-flowered plants also exist. Each flower has both male and female parts, and after pollination it forms a flat pod that turns brown and splits open to release its seeds. The blue colour comes from natural pigments called anthocyanins.",
+    "uses": [
+      "Flowers are used to make naturally blue herbal drinks and teas.",
+      "Flower extracts are used as a natural food colouring.",
+      "The flowers are used in traditional herbal preparations.",
+      "Grown as an ornamental climber in home gardens.",
+      "As a legume, it can improve soil fertility through nitrogen fixation."
+    ],
+    "garden": "Nil Katarolu grows well in sunny spots with moderate watering and well-drained soil, and tolerates many soil types. It is usually grown from seed. It is useful for teaching about compound leaves, flower structure, pods and nitrogen fixation.",
+    "safety": "Use only correctly identified plants and food-grade flowers in drinks. Avoid concentrated extracts or home remedies without professional advice."
+  },
+  {
+    "slug": "hulankeeriya",
+    "name": "Arrowroot",
+    "local": "Hulankeeriya",
+    "sinhala": "හුලංකීරිය",
+    "sci": "Maranta arundinacea",
+    "authority": "L.",
+    "family": "Marantaceae (Arrowroot family)",
+    "category": "Root Crop",
+    "habit": "Perennial herb with starchy rhizomes",
+    "about": "Hulankeeriya (arrowroot) is a traditional food plant that grows readily in the wet zone of Sri Lanka. Its white underground rhizomes are rich in starch and are used to make arrowroot flour.",
+    "identify": [
+      "Grows as a leafy clump in the wet zone.",
+      "Dark green, elongated, narrow leaves.",
+      "White underground rhizomes with ring-like ridges, slim at the base and thicker towards a pointed tip.",
+      "Rhizomes are ready to harvest about 8 to 10 months after planting."
+    ],
+    "flowers": "The flowers are small, white and tubular, and both male and female parts occur in the same flower. They grow in pairs on branched flower stalks. Some botanical records report flowering from June to August. The underground rhizomes are the edible part of the plant.",
+    "uses": [
+      "The rhizomes are processed into arrowroot flour.",
+      "The flour is used to make porridge and other foods, and is traditionally given to infants as an easy-to-digest food.",
+      "Used as a thickening agent in cooking.",
+      "A good source of carbohydrate, with about 2% protein and small amounts of vitamins and calcium.",
+      "Traditionally associated with relieving indigestion."
+    ],
+    "garden": "Hulankeeriya grows readily in the warm, moist conditions of the wet zone. It is grown from pieces of rhizome and harvested after about 8 to 10 months.",
+    "safety": "Arrowroot flour is a common food. Traditional health uses should not replace medical advice."
+  },
+  {
+    "slug": "karal-heba",
+    "name": "Prickly Chaff Flower",
+    "local": "Karal Heba",
+    "sinhala": "කරල් හැබ",
+    "sci": "Achyranthes aspera",
+    "authority": "L.",
+    "family": "Amaranthaceae (Amaranth family)",
+    "category": "Medicinal Herb",
+    "habit": "Erect branching perennial herb",
+    "about": "Karal Heba (known as Nayuruvi in Tamil) is a common herb of roadsides, fields and open land in Sri Lanka. It is easy to recognise by its long flower spikes, whose prickly seeds hook onto clothes and animal fur.",
+    "identify": [
+      "**Flower spikes (most distinctive):** long, slender, upright spikes, up to 30 to 60 cm long, at the stem tips. The tiny greenish-white or purplish flowers and seeds point sharply downward and have stiff, prickly bracts that hook onto clothing.",
+      "**Leaves:** opposite pairs, oval to broadly elliptic, 3 to 10 cm long, with a slightly wavy edge and a soft, velvety feel.",
+      "**Stems:** an erect, branching herb 0.5 to 1.5 m tall, with somewhat four-angled, stiff, hairy stems and swollen nodes."
+    ],
+    "uses": [
+      "**Coughs and fever:** decoctions have traditionally been used for coughs, asthma symptoms and fevers.",
+      "**Skin and wounds:** leaf pastes are applied externally for swelling and skin irritations, and the ash of the burnt plant has been used on wounds.",
+      "**Digestion and urine:** root decoctions have been used as diuretics and for digestive complaints and piles.",
+      "**Teeth:** stems or stem ash are used in rural traditions for cleaning teeth and for toothache.",
+      "**Household:** the potash-rich ash has traditionally been used as a cleaning agent, including for washing clothes.",
+      "**Sandalwood growing:** research in Sri Lanka has identified it as a host plant for sandalwood (*Santalum album*), which feeds partly from the roots of nearby plants."
+    ],
+    "garden": "Karal Heba thrives in full sun to partial shade and grows naturally along roadsides and garden borders in the low and mid country. It tolerates poor, sandy soils as long as drainage is good and needs little water once established. It grows easily from ripe seeds. Because its sticky seeds spread readily on pets and clothing, grow it in a dedicated corner or container and trim the flower spikes before they dry.",
+    "safety": "Folk remedies, including those for bites and stings, are not a substitute for medical care. Always seek medical help for snake bites and other emergencies."
   }
 ]

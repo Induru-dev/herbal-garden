@@ -82,5 +82,152 @@ window.PLANTS = [
   "sci": "Santalum album",
   "local": "Sudu Handun",
   "sinhala": "සුදු හඳුන්"
+ },
+ {
+  "slug": "rampe",
+  "name": "Pandan",
+  "sci": "Pandanus amaryllifolius",
+  "local": "Rampe",
+  "sinhala": "රම්පේ"
+ },
+ {
+  "slug": "karapincha",
+  "name": "Curry Leaf",
+  "sci": "Murraya koenigii",
+  "local": "Karapincha",
+  "sinhala": "කරපිංචා"
+ },
+ {
+  "slug": "heen-bovitiya",
+  "name": "Heen Bovitiya",
+  "sci": "Osbeckia octandra",
+  "local": "Heen Bovitiya",
+  "sinhala": "හීන් බෝවිටියා"
+ },
+ {
+  "slug": "mukunuwenna",
+  "name": "Mukunuwenna",
+  "sci": "Alternanthera sessilis",
+  "local": "Mukunuwenna",
+  "sinhala": "මුගුණුවැන්න"
+ },
+ {
+  "slug": "gotu-kola",
+  "name": "Gotu Kola",
+  "sci": "Centella asiatica",
+  "local": "Gotu Kola",
+  "sinhala": "ගොටුකොළ"
+ },
+ {
+  "slug": "heen-undupiyaliya",
+  "name": "Heen Undupiyaliya",
+  "sci": "Desmodium triflorum",
+  "local": "Heen Undupiyaliya",
+  "sinhala": "හීන් උඳුපියලිය"
+ },
+ {
+  "slug": "sera",
+  "name": "Lemongrass",
+  "sci": "Cymbopogon citratus",
+  "local": "Sera",
+  "sinhala": "සේර"
+ },
+ {
+  "slug": "savandara",
+  "name": "Vetiver",
+  "sci": "Chrysopogon zizanioides",
+  "local": "Savandara",
+  "sinhala": "සැවැන්දරා"
+ },
+ {
+  "slug": "akkapana",
+  "name": "Akkapana",
+  "sci": "Kalanchoe pinnata",
+  "local": "Akkapana",
+  "sinhala": "අක්කපාන"
+ },
+ {
+  "slug": "monarakudumbiya",
+  "name": "Monarakudumbiya",
+  "sci": "Vernonia cinerea",
+  "local": "Monarakudumbiya, Vatu Pala",
+  "sinhala": "මොනරකුඩුම්බියා"
+ },
+ {
+  "slug": "thebu",
+  "name": "Thebu",
+  "sci": "Hellenia speciosa",
+  "local": "Thebu",
+  "sinhala": "තෙබු"
+ },
+ {
+  "slug": "maduruthala",
+  "name": "Holy Basil",
+  "sci": "Ocimum tenuiflorum",
+  "local": "Maduruthala",
+  "sinhala": "මදුරුතලා"
+ },
+ {
+  "slug": "inguru-piyali",
+  "name": "Inguru Piyali",
+  "sci": "Kaempferia galanga",
+  "local": "Inguru Piyali",
+  "sinhala": "ඉඟුරු පියලි"
+ },
+ {
+  "slug": "iramusu",
+  "name": "Iramusu",
+  "sci": "Hemidesmus indicus",
+  "local": "Iramusu",
+  "sinhala": "ඉරමුසු"
+ },
+ {
+  "slug": "pokuruwada",
+  "name": "Coral Hibiscus",
+  "sci": "Hibiscus schizopetalus",
+  "local": "Pokuruwada",
+  "sinhala": "පොකුරුවද"
+ },
+ {
+  "slug": "kapparavalli",
+  "name": "Kapparavalli",
+  "sci": "Plectranthus amboinicus",
+  "local": "Kapparavalli, Karpooravalli",
+  "sinhala": "කප්පරවල්ලිය"
+ },
+ {
+  "slug": "sadikka",
+  "name": "Nutmeg",
+  "sci": "Myristica fragrans",
+  "local": "Sadikka",
+  "sinhala": "සාදික්කා"
+ },
+ {
+  "slug": "enasal",
+  "name": "Cardamom",
+  "sci": "Elettaria cardamomum",
+  "local": "Enasal",
+  "sinhala": "එනසාල්"
+ },
+ {
+  "slug": "nil-katarolu",
+  "name": "Butterfly Pea",
+  "sci": "Clitoria ternatea",
+  "local": "Nil Katarolu",
+  "sinhala": "නිල් කටරොළු"
+ },
+ {
+  "slug": "hulankeeriya",
+  "name": "Arrowroot",
+  "sci": "Maranta arundinacea",
+  "local": "Hulankeeriya",
+  "sinhala": "හුලංකීරිය"
+ },
+ {
+  "slug": "karal-heba",
+  "name": "Prickly Chaff Flower",
+  "sci": "Achyranthes aspera",
+  "local": "Karal Heba",
+  "sinhala": "කරල් හැබ"
  }
 ];

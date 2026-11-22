@@ -12,7 +12,11 @@ const photos = JSON.parse(fs.readFileSync("data/photos.json", "utf8"));
 const esc = (s = "") =>
   String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 // *text* in the data marks a scientific name and becomes italic
-const rich = (s = "") => esc(s).replace(/\*(.+?)\*/g, '<em class="sci">$1</em>');
+// **text** becomes bold (used for short labels at the start of a list item)
+const rich = (s = "") =>
+  esc(s)
+    .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")
+    .replace(/\*(.+?)\*/g, '<em class="sci">$1</em>');
 const sciHtml = (p) => `<em class="sci">${esc(p.sci)}</em>`;
 
 const leafSvg = `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 3C11 3 4 8 4 16c0 1.6.4 3 1 4 .6-4 3-8 8-10-4 3-6 6-7 10 1 .6 2.4 1 4 1 8 0 10-9 10-18z"/></svg>`;
@@ -22,6 +26,7 @@ const icons = {
   uses: `<svg viewBox="0 0 24 24"><path d="M5 19c0-8 5-14 14-14 0 9-6 14-14 14z"/><path d="M5 19l7-7"/></svg>`,
   garden: `<svg viewBox="0 0 24 24"><path d="M12 21v-9"/><path d="M12 12c0-4 3-7 7-7 0 4-3 7-7 7zM12 14c0-3-2.5-5.5-6-5.5 0 3 2.5 5.5 6 5.5z"/><path d="M6 21h12"/></svg>`,
   safety: `<svg viewBox="0 0 24 24"><path d="M12 3l9 16H3z"/><path d="M12 10v4M12 17v.5"/></svg>`,
+  flowers: `<svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="2.5"/><path d="M12 9.5C10 6 10.5 3.5 12 3c1.5.5 2 3 0 6.5zM14.5 12c3.5-2 6-1.5 6.5 0-.5 1.5-3 2-6.5 0zM12 14.5c2 3.5 1.5 6 0 6.5-1.5-.5-2-3 0-6.5zM9.5 12C6 14 3.5 13.5 3 12c.5-1.5 3-2 6.5 0z"/></svg>`,
   note: `<svg viewBox="0 0 24 24"><path d="M6 3h9l4 4v14H6z"/><path d="M9 12h7M9 16h5"/></svg>`,
 };
 
@@ -96,7 +101,8 @@ plants.forEach((p, i) => {
   sections += box("identify", "How to identify it", list(p.identify));
   sections += box("uses", "Traditional uses and importance", list(p.uses));
   const extra = [
-    p.garden && ["garden", "Garden notes", p.garden, ""],
+    p.flowers && ["flowers", "Flowers and fruits", p.flowers, ""],
+    p.garden &&["garden", "Garden notes", p.garden, ""],
     p.note && ["note", "Good to know", p.note, "note"],
     p.safety && ["safety", "Safety note", p.safety, "safety"],
   ].filter(Boolean);

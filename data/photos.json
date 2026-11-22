@@ -190,5 +190,341 @@
    "license": "CC BY-SA 3.0",
    "page": "https://commons.wikimedia.org/wiki/File:Santalum_album_Fruit_01.jpg"
   }
+ ],
+ "rampe": [
+  {
+   "src": "images/rampe-1.jpg",
+   "title": "Pandanus amaryllifolius Malaysia.jpg",
+   "artist": "Tu7uh",
+   "license": "CC BY 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Pandanus_amaryllifolius_Malaysia.jpg"
+  },
+  {
+   "src": "images/rampe-2.jpg",
+   "title": "Pandanus amaryllifolius, locally known as 'daun pandan' in Indonesia.jpg",
+   "artist": "Salmiah La Suma",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Pandanus_amaryllifolius,_locally_known_as_%27daun_pandan%27_in_Indonesia.jpg"
+  }
+ ],
+ "karapincha": [
+  {
+   "src": "images/karapincha-1.jpg",
+   "title": "Murraya koenigii kz01.jpg",
+   "artist": "Krzysztof Ziarnek, Kenraiz",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Murraya_koenigii_kz01.jpg"
+  },
+  {
+   "src": "images/karapincha-2.jpg",
+   "title": "Fruits of curry tree (Murraya koenigii) in West Bengal.jpg",
+   "artist": "Billjones94",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Fruits_of_curry_tree_(Murraya_koenigii)_in_West_Bengal.jpg"
+  }
+ ],
+ "heen-bovitiya": [
+  {
+   "src": "images/heen-bovitiya-1.jpg",
+   "title": "Osbeckia octandra flower 2.jpg",
+   "artist": "Nativeplants garden",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Osbeckia_octandra_flower_2.jpg"
+  },
+  {
+   "src": "images/heen-bovitiya-2.jpg",
+   "title": "Osbeckia octandra 4.jpg",
+   "artist": "Nativeplants garden",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Osbeckia_octandra_4.jpg"
+  }
+ ],
+ "mukunuwenna": [
+  {
+   "src": "images/mukunuwenna-1.jpg",
+   "title": "Alternanthera sessilis 04399.jpg",
+   "artist": "Vengolis",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Alternanthera_sessilis_04399.jpg"
+  },
+  {
+   "src": "images/mukunuwenna-2.jpg",
+   "title": "Alternanthera sessilis kz05.jpg",
+   "artist": "Krzysztof Ziarnek, Kenraiz",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Alternanthera_sessilis_kz05.jpg"
+  }
+ ],
+ "gotu-kola": [
+  {
+   "src": "images/gotu-kola-1.jpg",
+   "title": "Centella asiatica 04.jpg",
+   "artist": "Md. Siddiq Hasan",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Centella_asiatica_04.jpg"
+  },
+  {
+   "src": "images/gotu-kola-2.jpg",
+   "title": "Centella asiatica kz01.jpg",
+   "artist": "Krzysztof Ziarnek, Kenraiz",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Centella_asiatica_kz01.jpg"
+  }
+ ],
+ "heen-undupiyaliya": [
+  {
+   "src": "images/heen-undupiyaliya-1.jpg",
+   "title": "Desmodium triflorum 0400.jpg",
+   "artist": "Vengolis",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Desmodium_triflorum_0400.jpg"
+  },
+  {
+   "src": "images/heen-undupiyaliya-2.jpg",
+   "title": "Flower of Grona triflora in Nagura, Ishigaki Island.jpg",
+   "artist": "M108t",
+   "license": "CC BY 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Flower_of_Grona_triflora_in_Nagura,_Ishigaki_Island.jpg"
+  }
+ ],
+ "sera": [
+  {
+   "src": "images/sera-1.jpg",
+   "title": "Cymbopogon citratus lemongrass plant in garden.jpg",
+   "artist": "Undeka 11",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Cymbopogon_citratus_lemongrass_plant_in_garden.jpg"
+  },
+  {
+   "src": "images/sera-2.jpg",
+   "title": "Cymbopogon citratus (Brazil).jpg",
+   "artist": "Rafael Ghidini",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Cymbopogon_citratus_(Brazil).jpg"
+  }
+ ],
+ "savandara": [
+  {
+   "src": "images/savandara-1.jpg",
+   "title": "Starr-090721-3249-Chrysopogon zizanioides-habit-Wailuku-Maui (24852470992).jpg",
+   "artist": "Forest and Kim Starr",
+   "license": "CC BY 3.0 us",
+   "page": "https://commons.wikimedia.org/wiki/File:Starr-090721-3249-Chrysopogon_zizanioides-habit-Wailuku-Maui_(24852470992).jpg"
+  },
+  {
+   "src": "images/savandara-2.jpg",
+   "title": "Vetiveria zizanoides dsc07810.jpg",
+   "artist": "Copyright © 2005 David Monniaux",
+   "license": "CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Vetiveria_zizanoides_dsc07810.jpg"
+  }
+ ],
+ "akkapana": [
+  {
+   "src": "images/akkapana-1.jpg",
+   "title": "Kalanchoe pinnata (181218-1710).jpg",
+   "artist": "Wee Hong",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Kalanchoe_pinnata_(181218-1710).jpg"
+  },
+  {
+   "src": "images/akkapana-2.jpg",
+   "title": "Kalanchoe pinnata kz03.jpg",
+   "artist": "Krzysztof Ziarnek, Kenraiz",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Kalanchoe_pinnata_kz03.jpg"
+  }
+ ],
+ "monarakudumbiya": [
+  {
+   "src": "images/monarakudumbiya-1.jpg",
+   "title": "Cyanthillium cinereum - flower.JPG",
+   "artist": "Arun93",
+   "license": "CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Cyanthillium_cinereum_-_flower.JPG"
+  },
+  {
+   "src": "images/monarakudumbiya-2.jpg",
+   "title": "Cyanthillium cinereum 08962.JPG",
+   "artist": "Vengolis",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Cyanthillium_cinereum_08962.JPG"
+  }
+ ],
+ "thebu": [
+  {
+   "src": "images/thebu-1.jpg",
+   "title": "Flower of Hellenia speciosa in Kunigami, Okinawa.jpg",
+   "artist": "M108t",
+   "license": "CC BY 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Flower_of_Hellenia_speciosa_in_Kunigami,_Okinawa.jpg"
+  },
+  {
+   "src": "images/thebu-2.jpg",
+   "title": "Hellenia speciosa DSC 4351.jpg",
+   "artist": "Ranjithsiji",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Hellenia_speciosa_DSC_4351.jpg"
+  }
+ ],
+ "maduruthala": [
+  {
+   "src": "images/maduruthala-1.jpg",
+   "title": "Tulsi-flower.JPG",
+   "artist": "Vaikoovery",
+   "license": "CC BY 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Tulsi-flower.JPG"
+  },
+  {
+   "src": "images/maduruthala-2.jpg",
+   "title": "Tulsi or tulasi plant (Ocimum tenuiflorum) in West Bengal.jpg",
+   "artist": "Billjones94",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Tulsi_or_tulasi_plant_(Ocimum_tenuiflorum)_in_West_Bengal.jpg"
+  }
+ ],
+ "inguru-piyali": [
+  {
+   "src": "images/inguru-piyali-1.jpg",
+   "title": "Kaempferia galanga whole palnt.jpg",
+   "artist": "Satheesan.vn at Malayalam Wikipedia",
+   "license": "CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Kaempferia_galanga_whole_palnt.jpg"
+  },
+  {
+   "src": "images/inguru-piyali-2.jpg",
+   "title": "Dried aromatic ginger.jpg",
+   "artist": "Fumikas Sagisavas",
+   "license": "CC0",
+   "page": "https://commons.wikimedia.org/wiki/File:Dried_aromatic_ginger.jpg"
+  }
+ ],
+ "iramusu": [
+  {
+   "src": "images/iramusu-1.jpg",
+   "title": "Indian sarsaparilla (Hemidesmus indicus ) 07574.jpg",
+   "artist": "Vengolis",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Indian_sarsaparilla_(Hemidesmus_indicus_)_07574.jpg"
+  },
+  {
+   "src": "images/iramusu-2.jpg",
+   "title": "Hemidesmus indicus-Indian sarsaparilla-Vijayanrajapuram 02.jpg",
+   "artist": "Vijayanrajapuram",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Hemidesmus_indicus-Indian_sarsaparilla-Vijayanrajapuram_02.jpg"
+  }
+ ],
+ "pokuruwada": [
+  {
+   "src": "images/pokuruwada-1.jpg",
+   "title": "Hibiscus schizopetalus in Sri Lanka by Prasanna Kumara Dissanayake.jpg",
+   "artist": "Prasanna Kumara Dissanayake Photographer",
+   "license": "CC BY 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Hibiscus_schizopetalus_in_Sri_Lanka_by_Prasanna_Kumara_Dissanayake.jpg"
+  },
+  {
+   "src": "images/pokuruwada-2.jpg",
+   "title": "Hibiscus schizopetalus 00146.JPG",
+   "artist": "Vengolis",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Hibiscus_schizopetalus_00146.JPG"
+  }
+ ],
+ "kapparavalli": [
+  {
+   "src": "images/kapparavalli-1.jpg",
+   "title": "Plectranthus amboinicus in jaffna.JPG",
+   "artist": "Aathavan jaffna",
+   "license": "CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Plectranthus_amboinicus_in_jaffna.JPG"
+  },
+  {
+   "src": "images/kapparavalli-2.jpg",
+   "title": "Plectranthus amboinicus in Tamilnadu.jpg",
+   "artist": "Thamizhpparithi Maari",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Plectranthus_amboinicus_in_Tamilnadu.jpg"
+  }
+ ],
+ "sadikka": [
+  {
+   "src": "images/sadikka-1.jpg",
+   "title": "Nutmeg ready.jpg",
+   "artist": "Terrence Coombes",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Nutmeg_ready.jpg"
+  },
+  {
+   "src": "images/sadikka-2.jpg",
+   "title": "Myristica fragrans by kadavoor.jpg",
+   "artist": "Jeevan Jose, Kerala, India",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Myristica_fragrans_by_kadavoor.jpg"
+  }
+ ],
+ "enasal": [
+  {
+   "src": "images/enasal-1.jpg",
+   "title": "Elettaria cardamomum flowers 3.jpg",
+   "artist": "B.navez",
+   "license": "CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Elettaria_cardamomum_flowers_3.jpg"
+  },
+  {
+   "src": "images/enasal-2.jpg",
+   "title": "Elettaria cardamomum Capsules and seeds.jpg",
+   "artist": "Didier Descouens",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Elettaria_cardamomum_Capsules_and_seeds.jpg"
+  }
+ ],
+ "nil-katarolu": [
+  {
+   "src": "images/nil-katarolu-1.jpg",
+   "title": "Clitoria ternatea 9215.jpg",
+   "artist": "Vengolis",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Clitoria_ternatea_9215.jpg"
+  },
+  {
+   "src": "images/nil-katarolu-2.jpg",
+   "title": "Clitoria ternatea20130716 16.jpg",
+   "artist": "Bff",
+   "license": "CC BY-SA 3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Clitoria_ternatea20130716_16.jpg"
+  }
+ ],
+ "hulankeeriya": [
+  {
+   "src": "images/hulankeeriya-1.jpg",
+   "title": "Maranta arundinacea at Nativeplants botanical garden.jpg",
+   "artist": "Nativeplants garden",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Maranta_arundinacea_at_Nativeplants_botanical_garden.jpg"
+  },
+  {
+   "src": "images/hulankeeriya-2.jpg",
+   "title": "Arrowroot.jpg",
+   "artist": "KannanVM",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Arrowroot.jpg"
+  }
+ ],
+ "karal-heba": [
+  {
+   "src": "images/karal-heba-1.jpg",
+   "title": "Achyranthes aspera kz03.jpg",
+   "artist": "Krzysztof Ziarnek, Kenraiz",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Achyranthes_aspera_kz03.jpg"
+  },
+  {
+   "src": "images/karal-heba-2.jpg",
+   "title": "Achyranthes aspera 5.jpg",
+   "artist": "Nativeplants garden",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Achyranthes_aspera_5.jpg"
+  }
  ]
 }
