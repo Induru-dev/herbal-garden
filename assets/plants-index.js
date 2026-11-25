@@ -236,5 +236,12 @@ window.PLANTS = [
   "sci": "Eryngium foetidum",
   "local": "Andu",
   "sinhala": "අඳු"
+ },
+ {
+  "slug": "wel-penela",
+  "name": "Wel Penela (Balloon Vine)",
+  "sci": "Cardiospermum halicacabum",
+  "local": "Wel Penela",
+  "sinhala": "වැල් පෙනෙල"
  }
 ];

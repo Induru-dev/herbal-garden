@@ -928,5 +928,35 @@
     ],
     "garden": "Long coriander grows well in warm, humid climates in moist, fertile, well-drained soil rich in organic matter. It does especially well in partial shade, and regular watering keeps the leaves healthy. It can be grown from seed. It is a good plant for studying aromatic herbs, leaf shapes, flower structures and culinary plants.",
     "safety": "Long coriander is commonly used as a culinary herb in normal food quantities. Traditional medicinal uses should not be considered proven medical treatments."
+  },
+  {
+    "slug": "wel-penela",
+    "name": "Wel Penela (Balloon Vine)",
+    "local": "Wel Penela",
+    "sinhala": "වැල් පෙනෙල",
+    "sci": "Cardiospermum halicacabum",
+    "authority": "L.",
+    "family": "Sapindaceae (Soapberry family)",
+    "category": "Medicinal Climber",
+    "habit": "Slender climbing vine, annual or short-lived perennial",
+    "about": "Wel Penela (balloon vine) is a slender climbing medicinal vine found throughout Sri Lanka in home gardens, hedges and waste ground. It is easy to recognise by its papery, balloon-like fruits. Its scientific name means \"heart seed\", because each black seed carries a small white heart-shaped mark.",
+    "identify": [
+      "A slender, climbing vine that scrambles over hedges and fences.",
+      "Thin, grooved green stems.",
+      "Compound leaves divided into smaller leaflets with deeply toothed edges.",
+      "Curly tendrils near the flower clusters help the plant climb.",
+      "Small white flowers with four petals.",
+      "Inflated, papery, three-sided fruits that look like small green lanterns or balloons.",
+      "Round black seeds, each with a white heart-shaped spot."
+    ],
+    "flowers": "Small white flowers grow in loose clusters on long stalks, together with a pair of curly tendrils. After pollination each flower forms a light, inflated capsule that is green at first and turns pale brown and papery as it dries. Inside are three round black seeds, each marked with a white heart.",
+    "uses": [
+      "The leaves are cooked or eaten as a leafy vegetable and used in herbal porridge (kola kenda) in Sri Lanka.",
+      "In Ayurveda and Sri Lankan traditional medicine, the plant is traditionally used for joint pain and rheumatism.",
+      "Leaf pastes are traditionally applied externally for swelling and skin complaints.",
+      "Used in some traditional herbal hair oils."
+    ],
+    "garden": "Wel Penela grows easily in sunny or partly shaded places with moist, well-drained soil. It grows quickly from seed and needs a fence or trellis to climb. It can self-seed and spread, so trim it back after fruiting. Its balloon-like fruits and heart-marked seeds make it a fun plant for teaching visitors about tendrils, climbing plants and seed dispersal.",
+    "safety": "Traditional uses do not prove that a plant can treat disease. Do not prepare medicinal remedies from this plant without correct identification and advice from a qualified healthcare professional."
   }
 ]
