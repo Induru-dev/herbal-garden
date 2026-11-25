@@ -63,13 +63,6 @@ window.PLANTS = [
   "sinhala": "නාරං"
  },
  {
-  "slug": "dummala",
-  "name": "Dummala",
-  "sci": "Vatica obscura",
-  "local": "Dummala",
-  "sinhala": "දුම්මල"
- },
- {
   "slug": "karabu",
   "name": "Clove",
   "sci": "Syzygium aromaticum",
@@ -229,5 +222,19 @@ window.PLANTS = [
   "sci": "Achyranthes aspera",
   "local": "Karal Heba",
   "sinhala": "කරල් හැබ"
+ },
+ {
+  "slug": "rasakinda",
+  "name": "Rasakinda",
+  "sci": "Tinospora cordifolia",
+  "local": "Rasakinda",
+  "sinhala": "රසකිඳ"
+ },
+ {
+  "slug": "andu",
+  "name": "Long Coriander",
+  "sci": "Eryngium foetidum",
+  "local": "Andu",
+  "sinhala": "අඳු"
  }
 ];

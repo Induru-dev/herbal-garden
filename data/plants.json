@@ -243,34 +243,6 @@
     "safety": "Wash the fruits thoroughly before eating. People with citrus allergies should avoid them. Traditional medicinal uses of the peel and leaves should not be considered proven medical treatments."
   },
   {
-    "slug": "dummala",
-    "name": "Dummala",
-    "local": "Dummala",
-    "sinhala": "දුම්මල",
-    "sci": "Vatica obscura",
-    "authority": "Trimen",
-    "family": "Dipterocarpaceae",
-    "category": "Endemic Forest Tree",
-    "habit": "Evergreen tree, endemic to Sri Lanka",
-    "about": "Dummala is a woody evergreen tree found only in Sri Lanka. It belongs to the Dipterocarpaceae family, a group that includes several large tropical forest trees, and it is known for its aromatic resin.",
-    "identify": [
-      "A woody, evergreen tree.",
-      "A strong, upright trunk with branching stems.",
-      "Green leaves arranged along its branches.",
-      "Produces flowers and fruits as part of its reproductive cycle."
-    ],
-    "uses": [
-      "Dummala has historical importance in Sri Lankan traditional Ayurvedic practices.",
-      "Its resin has traditionally been used in Ayurvedic preparations.",
-      "The resin has also been used to make traditional flares for religious ceremonies, processions and cultural events.",
-      "It is important as a natural forest resource.",
-      "Trees in this group contribute to forest biodiversity and provide habitats for wildlife."
-    ],
-    "garden": "Dummala is a forest tree rather than a typical home-garden plant. It is naturally associated with Sri Lankan forest ecosystems and needs suitable tropical conditions and plenty of space to grow. It is important to conserve this species in its natural habitat.",
-    "safety": "",
-    "note": "*Vatica obscura* is classified as Vulnerable (VU) and is legally protected in Sri Lanka."
-  },
-  {
     "slug": "karabu",
     "name": "Clove",
     "local": "Karabu",
@@ -896,5 +868,65 @@
     ],
     "garden": "Karal Heba thrives in full sun to partial shade and grows naturally along roadsides and garden borders in the low and mid country. It tolerates poor, sandy soils as long as drainage is good and needs little water once established. It grows easily from ripe seeds. Because its sticky seeds spread readily on pets and clothing, grow it in a dedicated corner or container and trim the flower spikes before they dry.",
     "safety": "Folk remedies, including those for bites and stings, are not a substitute for medical care. Always seek medical help for snake bites and other emergencies."
+  },
+  {
+    "slug": "rasakinda",
+    "name": "Rasakinda",
+    "local": "Rasakinda",
+    "sinhala": "රසකිඳ",
+    "sci": "Tinospora cordifolia",
+    "authority": "(Willd.) Hook.f. & Thomson",
+    "family": "Menispermaceae (Moonseed family)",
+    "category": "Medicinal Climber",
+    "habit": "Large, deciduous perennial climbing shrub",
+    "about": "Rasakinda (heart-leaved moonseed, known as guduchi or giloy in India) is a large climbing plant found in Sri Lanka, India and Myanmar. It is one of the most important plants in Ayurveda, where its stem is the main part used. It is easy to spot climbing over fences and trees, with heart-shaped leaves and long, thin aerial roots hanging down.",
+    "identify": [
+      "A large, climbing shrub that twines over trees, fences and walls.",
+      "Heart-shaped, smooth, green leaves on long stalks.",
+      "Succulent stems with a corky, greyish-brown bark covered in small raised spots.",
+      "Long, thread-like aerial roots that hang down from the stems.",
+      "The stem tastes very bitter."
+    ],
+    "flowers": "Small, greenish-yellow flowers appear on long, slender stalks, often when the plant has lost its leaves. Male and female flowers grow on separate plants. Female flowers develop into small, round, fleshy fruits in clusters, which turn bright red when ripe.",
+    "uses": [
+      "The stem is the main part used in Ayurvedic and Sri Lankan traditional medicine.",
+      "Traditionally used in preparations for fever.",
+      "Traditionally valued as a general tonic and to support the body's natural defences.",
+      "Traditionally associated with digestive complaints and blood sugar management.",
+      "The bitter stem starch, known as guduchi satva, is used in traditional preparations."
+    ],
+    "garden": "Rasakinda grows well in warm tropical climates and is very hardy. It needs a fence, trellis or tree to climb on. It is easily grown from stem cuttings, which root quickly even from thick pieces of stem. It is a good plant for teaching visitors about climbing plants, aerial roots and Ayurvedic medicine.",
+    "safety": "Traditional uses do not prove that a plant can treat disease. Concentrated preparations have been linked to liver problems in some people, and it may lower blood sugar. Do not use it as a home remedy without advice from a qualified healthcare professional."
+  },
+  {
+    "slug": "andu",
+    "name": "Long Coriander",
+    "local": "Andu",
+    "sinhala": "අඳු",
+    "sci": "Eryngium foetidum",
+    "authority": "L.",
+    "family": "Apiaceae (Carrot family)",
+    "category": "Culinary Herb",
+    "habit": "Perennial herbaceous plant",
+    "about": "Long coriander is an aromatic tropical herb in the same family as ordinary coriander. It is grown in tropical countries including Sri Lanka and is valued for its strong coriander-like aroma and flavour. Its long, narrow leaves are widely used to flavour traditional dishes. It grows well in warm, humid conditions.",
+    "identify": [
+      "Usually grows about 15 to 60 cm tall.",
+      "A short stem with leaves arranged in a rosette at the base.",
+      "Long, narrow, dark green leaves.",
+      "Leaf edges have sharp, saw-like teeth.",
+      "Leaves give off a strong aroma when crushed.",
+      "Produces an upright flowering stalk with small greenish-white flowers.",
+      "Small, dry fruits containing seeds."
+    ],
+    "flowers": "Small greenish-white flowers grow in dense, cylindrical heads surrounded by spiny bracts. After pollination they develop into small, dry fruits containing seeds, which help the plant reproduce and spread.",
+    "uses": [
+      "Fresh leaves are used to flavour curries and sambols.",
+      "Leaves are used in soups, salads and traditional dishes.",
+      "Used as a substitute for ordinary coriander.",
+      "Leaves are traditionally used in herbal preparations.",
+      "Grown in home gardens for cooking."
+    ],
+    "garden": "Long coriander grows well in warm, humid climates in moist, fertile, well-drained soil rich in organic matter. It does especially well in partial shade, and regular watering keeps the leaves healthy. It can be grown from seed. It is a good plant for studying aromatic herbs, leaf shapes, flower structures and culinary plants.",
+    "safety": "Long coriander is commonly used as a culinary herb in normal food quantities. Traditional medicinal uses should not be considered proven medical treatments."
   }
 ]

@@ -143,22 +143,6 @@
    "page": "https://commons.wikimedia.org/wiki/File:Mandarins_-_whole_and_halved.jpg"
   }
  ],
- "dummala": [
-  {
-   "src": "images/dummala-1.jpg",
-   "title": "A hand-book to the flora of Ceylon (Plate XIII) (6430635839).jpg",
-   "artist": "Alston, A. H. G.; Hooker, Joseph Dalton; Trimen, Henry",
-   "license": "Public domain",
-   "page": "https://commons.wikimedia.org/wiki/File:A_hand-book_to_the_flora_of_Ceylon_(Plate_XIII)_(6430635839).jpg"
-  },
-  {
-   "src": "images/dummala-1.jpg",
-   "title": "A hand-book to the flora of Ceylon (Plate XIII) (6430635839).jpg",
-   "artist": "Alston, A. H. G.; Hooker, Joseph Dalton; Trimen, Henry",
-   "license": "Public domain",
-   "page": "https://commons.wikimedia.org/wiki/File:A_hand-book_to_the_flora_of_Ceylon_(Plate_XIII)_(6430635839).jpg"
-  }
- ],
  "karabu": [
   {
    "src": "images/karabu-1.jpg",
@@ -525,6 +509,38 @@
    "artist": "Nativeplants garden",
    "license": "CC BY-SA 4.0",
    "page": "https://commons.wikimedia.org/wiki/File:Achyranthes_aspera_5.jpg"
+  }
+ ],
+ "rasakinda": [
+  {
+   "src": "images/rasakinda-1.jpg",
+   "title": "Tinospora cordifolia.jpg",
+   "artist": "Tmd at Thai Wikipedia",
+   "license": "Public domain",
+   "page": "https://commons.wikimedia.org/wiki/File:Tinospora_cordifolia.jpg"
+  },
+  {
+   "src": "images/rasakinda-2.jpg",
+   "title": "Tinospora cordifolia fruits ripe.jpg",
+   "artist": "Chiring chandan",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Tinospora_cordifolia_fruits_ripe.jpg"
+  }
+ ],
+ "andu": [
+  {
+   "src": "images/andu-1.jpg",
+   "title": "Culantro (Eryngium foetidum) 7.jpg",
+   "artist": "Mokkie",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Culantro_(Eryngium_foetidum)_7.jpg"
+  },
+  {
+   "src": "images/andu-2.jpg",
+   "title": "Eryngium foetidum (Apiaceae).jpg",
+   "artist": "Filo gèn'",
+   "license": "CC BY-SA 4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Eryngium_foetidum_(Apiaceae).jpg"
   }
  ]
 }

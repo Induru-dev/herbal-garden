@@ -68,9 +68,7 @@ function footer(root, credits) {
 }
 
 function creditItem(ph, p) {
-  const who = ph.title.startsWith("A hand-book to the flora of Ceylon")
-    ? "Plate from Henry Trimen, A Hand-book to the Flora of Ceylon"
-    : esc(ph.artist);
+  const who = esc(ph.artist);
   return `<li>${esc(p.name)} (${sciHtml(p)}): ${who}, <a href="${esc(ph.page)}" target="_blank" rel="noopener">${esc(ph.license)}</a></li>`;
 }
 
@@ -80,8 +78,6 @@ plants.forEach((p, i) => {
   const [ph1, ph2] = photos[p.slug];
   const prev = plants[(i - 1 + plants.length) % plants.length];
   const next = plants[(i + 1) % plants.length];
-  // Dummala only has one known image (a botanical plate), so the second frame zooms into its flower and fruit details
-  const secondStyle = p.slug === "dummala" ? ' style="object-position: 50% 62%; transform: scale(2.6); transform-origin: 94% 64%;"' : "";
 
   const facts = [
     ["Local name", `${esc(p.local)} <span class="si">(${esc(p.sinhala)})</span>`],
@@ -126,7 +122,7 @@ plants.forEach((p, i) => {
       <img src="${root}${ph1.src}" alt="${esc(p.name)} (${esc(p.sci)}), photo 1" fetchpriority="high">
     </button>
     <button class="photo photo-second" data-full="${root}${ph2.src}" aria-label="Enlarge photo 2 of ${esc(p.name)}">
-      <img src="${root}${ph2.src}" alt="${esc(p.name)} (${esc(p.sci)}), photo 2" loading="lazy"${secondStyle}>
+      <img src="${root}${ph2.src}" alt="${esc(p.name)} (${esc(p.sci)}), photo 2" loading="lazy">
     </button>
     <span class="photo-label label-1">Photo 1</span>
     <span class="photo-label label-2">Photo 2</span>
@@ -158,10 +154,9 @@ plants.forEach((p, i) => {
 const cards = plants
   .map((p) => {
     const [ph1, ph2] = photos[p.slug];
-    const miniStyle = p.slug === "dummala" ? ' style="object-position: 50% 62%; transform: scale(2.6); transform-origin: 94% 64%;"' : "";
     const search = [p.name, p.local, p.sinhala, p.sci, p.family, p.category].join(" ").toLowerCase();
     return `<a class="card rise" href="plants/${p.slug}/" data-search="${esc(search)}">
-  <div class="card-img"><img src="${ph1.src}" alt="${esc(p.name)}" loading="lazy"><span class="mini"><img src="${ph2.src}" alt="" loading="lazy"${miniStyle}></span></div>
+  <div class="card-img"><img src="${ph1.src}" alt="${esc(p.name)}" loading="lazy"><span class="mini"><img src="${ph2.src}" alt="" loading="lazy"></span></div>
   <div class="card-body"><span class="card-tag">${esc(p.category)}</span><h2>${esc(p.name)}</h2>${sciHtml(p)}<span class="si">${esc(p.local)} · ${esc(p.sinhala)}</span></div>
 </a>`;
   })
